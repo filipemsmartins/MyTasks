@@ -303,6 +303,7 @@
 				232AED151E81D59000CAD79C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
